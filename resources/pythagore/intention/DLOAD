@@ -1,0 +1,11 @@
+** APP
+NO DA SU TR XZ [][R1][] YY 1e10
+NO TR [AXE][R1][AXE] YY 1e10 XX 1e3 ZZ 1e3 GY
+** ACT TO IN
+!DA SU TR [][R 2a5][]
+$B $.I = 1 a 100
+** CAS FIC 200
+NO -508 FY -10 
+!NO -165,-144 FY -5
+$F
+** FIN 
